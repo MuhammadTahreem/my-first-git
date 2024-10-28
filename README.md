@@ -1,3 +1,3 @@
 # my-first-git
-Author M.Tahreem
+Author M.tahreem
 
